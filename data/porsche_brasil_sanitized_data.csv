@@ -1,0 +1,101 @@
+sale_id	modelo	ano	cidade	estado	pagamento	data_etl	status	preco_usd
+6	911 Carrera S	2024	São Paulo	SP	PIX / À Vista	14/03/2024	Delivered	185000
+7	Cayenne Coupe	2024	Curitiba	PR	Financiamento Porsche	18/03/2024	Delivered	142000
+8	Macan GTS	2023	Rio de Janeiro	RJ	Consórcio	INVALID	Delivered	108000
+9	Taycan Turbo S	2024	São Paulo	SP	Leasing Corporativo	02/04/2024	Delivered	215000
+10	Panamera 4S	2023	Belo Horizonte	MG	Financiamento Porsche	05/04/2024	In Transit	158000
+11	718 Cayman GT4	2023	Florianópolis	SC	PIX / À Vista	11/04/2024	Delivered	136000
+12	911 Turbo S	2025	São Paulo	SP	PIX / À Vista	19/04/2024	Delivered	268000
+13	Cayenne E-Hybrid	2024	Porto Alegre	RS	Financiamento Porsche	INVALID	Delivered	134000
+14	Macan T	2024	Campinas	SP	Consórcio	03/05/2024	Delivered	89000
+15	Taycan 4S	2024	Brasília	DF	Leasing Corporativo	08/05/2024	Delivered	154000
+16	911 GT3	2024	São Paulo	SP	PIX / À Vista	12/05/2024	Delivered	245000
+17	Cayenne S	2023	Goiânia	GO	Financiamento Porsche	17/05/2024	Delivered	129000
+18	Macan S	2024	Recife	PE	Financiamento Porsche	22/05/2024	Preparing	98000
+19	718 Boxster GTS	2024	Rio de Janeiro	RJ	PIX / À Vista	29/05/2024	Delivered	118000
+20	Panamera Turbo E-Hybrid	2025	São Paulo	SP	Leasing Corporativo	04/06/2024	Delivered	229000
+21	Cayenne Coupe	2024	Balneário Camboriú	SC	PIX / À Vista	INVALID	Delivered	146000
+22	911 Carrera GTS	2024	Curitiba	PR	Financiamento Porsche	11/06/2024	Delivered	198000
+23	Macan Electric	2025	São Paulo	SP	Leasing Corporativo	15/06/2024	In Transit	115000
+24	Taycan Cross Turismo	2024	Belo Horizonte	MG	Financiamento Porsche	20/06/2024	Delivered	169000
+25	718 Cayman S	2023	Ribeirão Preto	SP	Consórcio	25/06/2024	Delivered	104000
+26	911 Carrera S	2024	Rio de Janeiro	RJ	PIX / À Vista	02/07/2024	Delivered	187000
+27	Cayenne E-Hybrid	2024	São Paulo	SP	Financiamento Porsche	06/07/2024	Delivered	136000
+28	Macan GTS	2024	Fortaleza	CE	Financiamento Porsche	10/07/2024	Delivered	112000
+29	Panamera 4	2024	Brasília	DF	Leasing Corporativo	INVALID	Delivered	145000
+30	911 Targa 4 GTS	2024	São Paulo	SP	PIX / À Vista	18/07/2024	Delivered	212000
+31	Taycan Turbo	2024	Curitiba	PR	Leasing Corporativo	23/07/2024	Delivered	192000
+32	Cayenne S	2024	Porto Alegre	RS	Consórcio	29/07/2024	Delivered	133000
+33	Macan T	2023	Salvador	BA	Financiamento Porsche	03/08/2024	Delivered	86000
+34	718 Spyder RS	2024	São Paulo	SP	PIX / À Vista	09/08/2024	Delivered	205000
+35	911 Carrera	2024	Campinas	SP	Financiamento Porsche	14/08/2024	Delivered	164000
+36	Cayenne Coupe	2025	Rio de Janeiro	RJ	Leasing Corporativo	19/08/2024	In Transit	149000
+37	Macan S	2024	Florianópolis	SC	PIX / À Vista	24/08/2024	Delivered	99500
+38	Taycan 4S	2023	São Paulo	SP	Leasing Corporativo	INVALID	Delivered	148000
+39	Panamera 4S	2024	Curitiba	PR	Financiamento Porsche	02/09/2024	Delivered	162000
+40	911 Turbo	2024	Belo Horizonte	MG	PIX / À Vista	07/09/2024	Delivered	238000
+41	Cayenne E-Hybrid	2024	Brasília	DF	Financiamento Porsche	12/09/2024	Delivered	135000
+42	Macan GTS	2024	São Paulo	SP	Consórcio	16/09/2024	Delivered	111000
+43	718 Boxster S	2023	Goiânia	GO	Financiamento Porsche	21/09/2024	Delivered	106000
+44	911 Carrera S	2025	São Paulo	SP	PIX / À Vista	26/09/2024	Delivered	191000
+45	Taycan GTS	2024	Rio de Janeiro	RJ	Leasing Corporativo	01/10/2024	Delivered	176000
+46	Cayenne Turbo GT	2024	São Paulo	SP	PIX / À Vista	05/10/2024	Delivered	249000
+47	Macan Electric	2025	Curitiba	PR	Leasing Corporativo	INVALID	Preparing	118000
+48	Panamera GTS	2024	Porto Alegre	RS	Financiamento Porsche	12/10/2024	Delivered	184000
+49	911 Carrera GTS	2024	Balneário Camboriú	SC	PIX / À Vista	17/10/2024	Delivered	201000
+50	Cayenne S	2024	Ribeirão Preto	SP	Financiamento Porsche	22/10/2024	Delivered	132000
+51	Macan T	2024	Recife	PE	Consórcio	28/10/2024	Delivered	91000
+52	718 Cayman GTS	2024	São Paulo	SP	PIX / À Vista	02/11/2024	Delivered	124000
+53	Taycan Turbo S	2025	São Paulo	SP	Leasing Corporativo	06/11/2024	Delivered	222000
+54	911 GT3 RS	2024	Curitiba	PR	PIX / À Vista	11/11/2024	Delivered	315000
+55	Cayenne Coupe	2024	Belo Horizonte	MG	Financiamento Porsche	15/11/2024	Delivered	144000
+56	Macan S	2023	Brasília	DF	Financiamento Porsche	INVALID	Delivered	95000
+57	Panamera 4 E-Hybrid	2024	São Paulo	SP	Leasing Corporativo	22/11/2024	Delivered	168000
+58	911 Carrera	2024	Rio de Janeiro	RJ	Financiamento Porsche	27/11/2024	Delivered	166000
+59	Cayenne E-Hybrid	2025	Campinas	SP	Leasing Corporativo	03/12/2024	In Transit	141000
+60	718 Boxster	2024	Florianópolis	SC	Consórcio	07/12/2024	Delivered	94000
+61	Macan GTS	2024	São Paulo	SP	Financiamento Porsche	12/12/2024	Delivered	113000
+62	911 Turbo S	2024	Rio de Janeiro	RJ	PIX / À Vista	16/12/2024	Delivered	264000
+63	Taycan 4S	2024	Porto Alegre	RS	Leasing Corporativo	20/12/2024	Delivered	156000
+64	Cayenne S	2024	Fortaleza	CE	Financiamento Porsche	06/01/2025	Delivered	134000
+65	911 Carrera S	2024	São Paulo	SP	PIX / À Vista	10/01/2025	Delivered	186000
+66	Macan Electric	2025	São Paulo	SP	Leasing Corporativo	INVALID	Delivered	117000
+67	Panamera 4S	2024	Goiânia	GO	Financiamento Porsche	18/01/2025	Delivered	160000
+68	718 Cayman GT4	2024	Curitiba	PR	PIX / À Vista	23/01/2025	Delivered	139000
+69	Cayenne Coupe	2024	São Paulo	SP	Consórcio	28/01/2025	Delivered	145000
+70	Taycan Turbo	2025	Brasília	DF	Leasing Corporativo	03/02/2025	Preparing	196000
+71	911 Targa 4S	2024	São Paulo	SP	PIX / À Vista	08/02/2025	Delivered	204000
+72	Macan T	2024	Belo Horizonte	MG	Financiamento Porsche	12/02/2025	Delivered	90000
+73	Cayenne E-Hybrid	2024	Salvador	BA	Financiamento Porsche	17/02/2025	Delivered	137000
+74	911 Carrera GTS	2025	Rio de Janeiro	RJ	PIX / À Vista	21/02/2025	Delivered	203000
+75	Macan S	2024	Ribeirão Preto	SP	Consórcio	INVALID	Delivered	99000
+76	Panamera Turbo E-Hybrid	2025	São Paulo	SP	Leasing Corporativo	02/03/2025	Delivered	232000
+77	718 Boxster GTS	2024	Balneário Camboriú	SC	PIX / À Vista	06/03/2025	Delivered	121000
+78	Cayenne S	2025	Curitiba	PR	Financiamento Porsche	11/03/2025	In Transit	138000
+79	Taycan 4S	2024	São Paulo	SP	Leasing Corporativo	15/03/2025	Delivered	155000
+80	911 GT3	2024	São Paulo	SP	PIX / À Vista	20/03/2025	Delivered	248000
+81	Macan GTS	2024	Campinas	SP	Financiamento Porsche	25/03/2025	Delivered	112500
+82	Cayenne Coupe	2024	Porto Alegre	RS	Financiamento Porsche	29/03/2025	Delivered	143500
+83	911 Carrera	2025	Florianópolis	SC	PIX / À Vista	03/04/2025	Delivered	169000
+84	Panamera 4	2024	Rio de Janeiro	RJ	Leasing Corporativo	INVALID	Delivered	147000
+85	Macan Electric	2025	Belo Horizonte	MG	Leasing Corporativo	11/04/2025	Delivered	116500
+86	718 Cayman S	2024	Recife	PE	Consórcio	16/04/2025	Delivered	107000
+87	Cayenne E-Hybrid	2024	São Paulo	SP	Financiamento Porsche	21/04/2025	Delivered	136500
+88	911 Turbo	2025	São Paulo	SP	PIX / À Vista	25/04/2025	Delivered	242000
+89	Taycan GTS	2024	Curitiba	PR	Leasing Corporativo	02/05/2025	Delivered	178000
+90	Macan T	2024	Goiânia	GO	Financiamento Porsche	06/05/2025	Delivered	90500
+91	911 Carrera S	2024	Brasília	DF	PIX / À Vista	11/05/2025	Delivered	188000
+92	Cayenne Turbo GT	2025	São Paulo	SP	PIX / À Vista	15/05/2025	Preparing	254000
+93	Panamera 4 E-Hybrid	2024	Rio de Janeiro	RJ	Leasing Corporativo	INVALID	Delivered	170000
+94	Macan S	2024	Fortaleza	CE	Consórcio	23/05/2025	Delivered	99800
+95	718 Spyder RS	2025	São Paulo	SP	PIX / À Vista	28/05/2025	Delivered	209000
+96	Cayenne S	2024	Campinas	SP	Financiamento Porsche	02/06/2025	Delivered	133500
+97	Taycan Turbo S	2024	Belo Horizonte	MG	Leasing Corporativo	06/06/2025	Delivered	218000
+98	911 Carrera GTS	2024	Porto Alegre	RS	PIX / À Vista	11/06/2025	Delivered	199500
+99	Macan Electric	2025	Rio de Janeiro	RJ	Leasing Corporativo	15/06/2025	In Transit	119000
+100	Cayenne Coupe	2024	Ribeirão Preto	SP	Financiamento Porsche	19/06/2025	Delivered	145500
+101	911 Turbo S	2025	São Paulo	SP	PIX / À Vista	24/06/2025	Delivered	272000
+102	Panamera GTS	2024	Curitiba	PR	Financiamento Porsche	28/06/2025	Delivered	186000
+103	718 Cayman GTS	2024	Salvador	BA	Consórcio	02/07/2025	Delivered	123000
+104	Macan GTS	2025	São Paulo	SP	Financiamento Porsche	06/07/2025	Delivered	115000
+105	Cayenne E-Hybrid	2025	Florianópolis	SC	Leasing Corporativo	10/07/2025	Delivered	142500
